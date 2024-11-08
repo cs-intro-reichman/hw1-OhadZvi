@@ -10,5 +10,6 @@ public class Ascend {
 		int max = Math.max(Math.max(a, b), c);
 		int mid = a + b + c - min - max;
 		System.out.println(min + " " + mid + " " + max);
+		//note
 	}
 }
